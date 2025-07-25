@@ -1,0 +1,301 @@
+id,city,district,area_m2,rooms,price_pln,year_built,market_type,date_posted
+1,Warszawa,Mokotów,81.91,2,774485,1973,primary,2023-11-29
+2,Poznań,Jeżyce,32.09,2,306756,1963,primary,2023-09-29
+3,Gdańsk,Oliwa,45.43,3,722506,1960,primary,2023-08-11
+4,Poznań,Grunwald,49.45,2,866826,2003,primary,2025-04-22
+5,Poznań,Jeżyce,55.13,3,752027,1965,secondary,2024-01-23
+6,Warszawa,Praga,35.52,3,572704,2006,primary,2023-08-04
+7,Warszawa,Mokotów,76.29,3,1360818,1989,primary,2024-07-01
+8,Wrocław,Śródmieście,74.5,3,654795,2005,primary,2023-09-08
+9,Wrocław,Fabryczna,95.57,1,1309351,1981,primary,2025-02-08
+10,Poznań,Grunwald,48.9,2,710554,1967,primary,2025-06-23
+11,Wrocław,Śródmieście,48.74,2,830748,2000,primary,2023-09-23
+12,Poznań,Grunwald,91.93,4,787986,1977,primary,2023-12-29
+13,Gdańsk,Oliwa,82.29,4,1388730,2011,secondary,2024-12-13
+14,Kraków,Podgórze,64.55,1,1063276,1979,primary,2023-08-29
+15,Poznań,Stare Miasto,34.45,4,466961,2019,secondary,2024-01-06
+16,Warszawa,Śródmieście,80.45,3,1243321,2003,primary,2024-09-28
+17,Poznań,Jeżyce,61.76,3,1092581,1982,primary,2023-10-24
+18,Wrocław,Fabryczna,65.54,2,568967,1980,primary,2023-11-20
+19,Wrocław,Śródmieście,31.36,3,522643,1999,primary,2025-05-27
+20,Kraków,Podgórze,96.29,1,1449259,1968,primary,2025-03-16
+21,Poznań,Stare Miasto,41.56,4,731788,1985,secondary,2024-06-12
+22,Wrocław,Śródmieście,92.97,4,774537,1988,primary,2024-08-13
+23,Warszawa,Śródmieście,68.77,2,486829,1967,primary,2025-05-17
+24,Warszawa,Praga,34.96,2,351811,2022,primary,2024-01-20
+25,Kraków,Podgórze,95.49,4,923671,2020,secondary,2025-01-12
+26,Warszawa,Mokotów,76.13,3,887627,2019,primary,2023-09-05
+27,Warszawa,Mokotów,58.18,3,919623,1973,primary,2025-01-10
+28,Kraków,Podgórze,61.4,4,553727,2019,primary,2025-05-09
+29,Poznań,Stare Miasto,36.85,1,650732,1990,primary,2024-06-04
+30,Poznań,Grunwald,44.96,4,761032,1981,secondary,2025-07-23
+31,Poznań,Grunwald,94.86,4,961666,2022,primary,2025-01-12
+32,Wrocław,Krzyki,97.81,1,1489424,1967,primary,2023-12-05
+33,Poznań,Stare Miasto,94.36,2,719558,1970,primary,2025-05-16
+34,Gdańsk,Wrzeszcz,77.26,2,883972,1991,primary,2023-10-30
+35,Warszawa,Praga,76.02,3,1313760,1986,secondary,2024-11-23
+36,Wrocław,Śródmieście,39.16,3,471074,1969,primary,2024-04-12
+37,Gdańsk,Przymorze,99.73,1,1287911,2024,secondary,2025-03-12
+38,Wrocław,Krzyki,91.55,3,927846,2016,secondary,2023-11-07
+39,Gdańsk,Wrzeszcz,76.75,3,1323885,1973,primary,2024-10-28
+40,Warszawa,Mokotów,81.97,2,819358,1986,secondary,2024-12-29
+41,Wrocław,Fabryczna,64.2,1,514581,2014,secondary,2025-06-10
+42,Warszawa,Praga,83.98,3,737126,2016,secondary,2023-12-29
+43,Warszawa,Mokotów,35.27,2,458562,2007,primary,2024-05-11
+44,Kraków,Nowa Huta,51.58,1,871091,1986,primary,2023-09-12
+45,Warszawa,Praga,84.61,4,1498629,1979,primary,2025-02-09
+46,Kraków,Krowodrza,31.74,3,495342,2012,primary,2024-10-25
+47,Kraków,Podgórze,37.57,1,617820,1988,primary,2024-04-10
+48,Wrocław,Śródmieście,87.44,2,826496,1984,secondary,2024-08-23
+49,Wrocław,Krzyki,97.68,3,1061059,2011,secondary,2025-06-27
+50,Warszawa,Praga,42.5,3,315385,2015,secondary,2024-09-07
+51,Poznań,Stare Miasto,98.9,1,1111354,1984,secondary,2025-06-10
+52,Poznań,Jeżyce,66.39,2,730717,1968,secondary,2023-10-26
+53,Wrocław,Fabryczna,89.36,3,1124001,2012,secondary,2024-06-08
+54,Wrocław,Fabryczna,38.91,4,556966,2008,primary,2023-11-03
+55,Gdańsk,Oliwa,58.43,1,604319,1986,secondary,2023-12-10
+56,Gdańsk,Przymorze,52.56,4,623559,1987,secondary,2025-02-02
+57,Warszawa,Praga,66.08,3,530441,1990,secondary,2024-12-07
+58,Kraków,Nowa Huta,31.71,2,565176,1969,secondary,2024-05-27
+59,Gdańsk,Wrzeszcz,80.28,4,998534,1991,primary,2023-09-23
+60,Warszawa,Mokotów,84.49,2,754897,2019,primary,2024-01-02
+61,Kraków,Nowa Huta,61.95,4,888570,2000,secondary,2023-11-06
+62,Gdańsk,Oliwa,88.14,4,1486859,2020,secondary,2024-11-02
+63,Kraków,Podgórze,49.41,4,686514,1995,secondary,2025-05-07
+64,Wrocław,Krzyki,49.02,3,824677,1970,primary,2025-02-21
+65,Kraków,Krowodrza,78.58,2,605578,2012,secondary,2024-01-17
+66,Poznań,Grunwald,34.36,4,387726,1962,secondary,2024-03-24
+67,Warszawa,Praga,50.9,4,834145,2013,primary,2024-03-13
+68,Kraków,Krowodrza,60.51,1,682397,2011,primary,2024-04-03
+69,Kraków,Podgórze,67.39,4,910494,1963,primary,2023-10-06
+70,Poznań,Jeżyce,90.68,2,684917,2008,secondary,2024-12-21
+71,Poznań,Grunwald,53.63,4,539561,2013,secondary,2025-05-03
+72,Poznań,Jeżyce,82.43,1,1483656,2004,primary,2023-09-29
+73,Warszawa,Śródmieście,32.82,1,572568,1985,primary,2023-10-28
+74,Kraków,Nowa Huta,38.84,1,512830,1987,secondary,2023-08-09
+75,Wrocław,Śródmieście,41.75,1,649450,1980,secondary,2025-04-06
+76,Gdańsk,Wrzeszcz,95.02,4,1079731,1985,primary,2023-11-27
+77,Kraków,Nowa Huta,78.8,3,1288634,1975,primary,2024-08-04
+78,Gdańsk,Oliwa,76.31,1,958878,2003,primary,2024-05-21
+79,Poznań,Jeżyce,60.35,3,844383,2018,primary,2024-05-06
+80,Kraków,Podgórze,66.52,3,916315,2021,secondary,2024-05-05
+81,Gdańsk,Oliwa,52.56,2,848215,1971,secondary,2024-04-20
+82,Kraków,Krowodrza,69.89,4,747848,2023,secondary,2025-01-20
+83,Poznań,Jeżyce,54.84,3,589186,1995,primary,2024-02-12
+84,Kraków,Nowa Huta,46.89,4,580233,1990,secondary,2023-10-03
+85,Poznań,Grunwald,85.51,1,875330,2011,primary,2024-09-15
+86,Gdańsk,Oliwa,63.13,3,737392,2002,secondary,2023-08-06
+87,Poznań,Grunwald,51.46,2,428518,1984,secondary,2025-03-25
+88,Gdańsk,Przymorze,42.96,2,649755,1995,secondary,2025-04-14
+89,Kraków,Krowodrza,45.92,2,474121,1976,secondary,2025-06-09
+90,Warszawa,Śródmieście,50.45,2,707135,2022,primary,2025-07-13
+91,Gdańsk,Oliwa,62.86,4,675604,1966,secondary,2024-03-23
+92,Warszawa,Mokotów,58.05,1,774806,1966,primary,2025-02-23
+93,Gdańsk,Oliwa,35.96,2,298574,2013,primary,2024-02-06
+94,Poznań,Grunwald,93.6,3,1540827,2014,secondary,2023-12-21
+95,Gdańsk,Wrzeszcz,72.67,1,1266165,1986,primary,2024-10-28
+96,Warszawa,Mokotów,46.79,1,408095,2012,secondary,2023-08-20
+97,Gdańsk,Oliwa,50.39,2,512423,1996,secondary,2025-05-14
+98,Kraków,Krowodrza,85.15,2,994256,1988,primary,2024-10-26
+99,Kraków,Nowa Huta,34.17,3,462849,1996,secondary,2025-03-20
+100,Poznań,Stare Miasto,51.29,4,890878,2024,secondary,2024-05-03
+101,Warszawa,Śródmieście,32.79,4,494469,1992,primary,2025-04-23
+102,Kraków,Podgórze,88.52,1,1592943,1994,primary,2025-01-27
+103,Poznań,Stare Miasto,75.61,3,680216,2015,secondary,2025-04-23
+104,Poznań,Grunwald,58.58,3,841880,1980,secondary,2024-05-30
+105,Poznań,Grunwald,76.38,4,1218201,1964,secondary,2025-04-26
+106,Wrocław,Śródmieście,52.63,4,869132,1960,secondary,2024-05-28
+107,Warszawa,Mokotów,66.29,4,920071,1966,primary,2024-10-25
+108,Gdańsk,Wrzeszcz,94.94,4,1584483,2022,primary,2025-06-26
+109,Gdańsk,Wrzeszcz,79.68,3,1040559,2012,primary,2024-12-07
+110,Warszawa,Praga,96.29,2,1201904,1997,secondary,2024-05-26
+111,Poznań,Grunwald,47.06,2,527987,1977,primary,2024-10-16
+112,Poznań,Grunwald,95.4,3,1528884,1996,secondary,2023-12-02
+113,Gdańsk,Przymorze,64.27,2,765585,2021,secondary,2024-08-19
+114,Gdańsk,Przymorze,56.4,3,934300,1990,secondary,2024-11-28
+115,Poznań,Jeżyce,52.27,4,771374,2008,secondary,2023-09-15
+116,Kraków,Krowodrza,97.54,2,1221708,2002,primary,2024-05-01
+117,Warszawa,Śródmieście,93.73,1,1400971,2012,primary,2025-05-10
+118,Poznań,Grunwald,53.7,4,759758,2002,secondary,2024-09-04
+119,Poznań,Stare Miasto,32.51,1,311526,1996,primary,2025-04-24
+120,Poznań,Jeżyce,83.23,1,988811,1998,primary,2025-06-08
+121,Wrocław,Krzyki,50.54,3,593216,1991,secondary,2023-12-24
+122,Kraków,Nowa Huta,42.25,4,583760,1990,secondary,2023-12-06
+123,Kraków,Nowa Huta,62.28,3,750802,1961,secondary,2024-10-04
+124,Gdańsk,Wrzeszcz,35.17,3,628282,1998,secondary,2023-08-19
+125,Wrocław,Śródmieście,89.17,2,1604445,2021,primary,2024-11-25
+126,Poznań,Stare Miasto,55.13,3,987908,1997,primary,2023-09-20
+127,Poznań,Grunwald,30.57,1,520203,2023,secondary,2024-12-02
+128,Gdańsk,Oliwa,45.33,2,626904,1977,primary,2023-10-22
+129,Warszawa,Praga,85.2,1,1139576,1976,primary,2024-09-26
+130,Wrocław,Fabryczna,59.09,2,499532,2006,secondary,2025-02-07
+131,Wrocław,Śródmieście,97.72,3,1486531,2003,primary,2024-04-02
+132,Warszawa,Mokotów,82.79,2,1362851,2010,secondary,2025-04-24
+133,Poznań,Jeżyce,48.51,1,582248,1993,secondary,2023-10-11
+134,Wrocław,Krzyki,77.24,4,561941,2001,primary,2023-10-01
+135,Warszawa,Śródmieście,87.67,3,1239797,1974,primary,2025-06-09
+136,Warszawa,Praga,99.71,1,804571,1977,secondary,2024-04-17
+137,Wrocław,Fabryczna,96.46,4,1298423,1979,secondary,2023-09-24
+138,Warszawa,Praga,73.1,3,538007,2007,primary,2024-04-27
+139,Poznań,Jeżyce,89.88,1,1598983,2007,secondary,2025-05-24
+140,Poznań,Grunwald,43.29,1,754939,2018,primary,2023-09-16
+141,Kraków,Podgórze,74.76,1,564913,2002,primary,2025-03-19
+142,Gdańsk,Wrzeszcz,34.8,2,468067,1989,secondary,2025-02-24
+143,Gdańsk,Wrzeszcz,49.41,2,882600,1992,primary,2025-04-04
+144,Warszawa,Mokotów,31.04,2,418337,1962,primary,2024-10-27
+145,Warszawa,Mokotów,81.92,1,1245373,2020,secondary,2024-07-20
+146,Gdańsk,Przymorze,37.63,2,654745,1965,secondary,2024-04-12
+147,Warszawa,Mokotów,99.9,4,1167732,1973,secondary,2023-07-27
+148,Poznań,Jeżyce,92.95,3,1272603,1968,primary,2024-10-17
+149,Gdańsk,Przymorze,70.98,3,794262,1997,secondary,2024-02-24
+150,Gdańsk,Oliwa,36.94,1,605103,1987,secondary,2024-04-19
+151,Kraków,Krowodrza,53.73,4,611771,1972,secondary,2024-05-14
+152,Wrocław,Fabryczna,47.84,2,696312,2020,primary,2025-04-23
+153,Warszawa,Mokotów,60.23,3,959431,1967,secondary,2023-09-08
+154,Warszawa,Praga,54.75,4,906058,1966,secondary,2023-11-19
+155,Wrocław,Śródmieście,37.25,2,324150,2021,primary,2025-04-06
+156,Wrocław,Fabryczna,55.73,3,742050,2014,primary,2023-11-10
+157,Wrocław,Krzyki,42.63,3,730546,2004,primary,2025-01-21
+158,Kraków,Podgórze,76.01,1,650692,1963,primary,2024-01-29
+159,Kraków,Krowodrza,59.39,3,518563,1999,secondary,2023-12-22
+160,Gdańsk,Wrzeszcz,91.83,2,801814,1966,primary,2024-10-20
+161,Poznań,Stare Miasto,59.68,4,689663,1987,primary,2024-08-06
+162,Poznań,Jeżyce,49.83,4,637638,1999,primary,2024-12-12
+163,Poznań,Stare Miasto,33.83,2,348977,1987,primary,2024-11-06
+164,Wrocław,Śródmieście,38.4,4,584338,1982,primary,2024-07-01
+165,Gdańsk,Przymorze,46.11,3,359327,1965,secondary,2025-07-06
+166,Poznań,Jeżyce,90.35,4,1202323,2013,secondary,2025-03-30
+167,Poznań,Jeżyce,97.63,2,1543973,2018,secondary,2025-04-26
+168,Poznań,Jeżyce,47.03,4,600271,2010,secondary,2024-08-12
+169,Kraków,Krowodrza,84.54,1,1066498,1974,primary,2024-08-02
+170,Wrocław,Fabryczna,97.08,2,931866,1978,secondary,2025-01-04
+171,Kraków,Podgórze,40.7,1,364208,2023,secondary,2023-12-26
+172,Gdańsk,Oliwa,77.68,3,1282241,2000,primary,2024-05-01
+173,Warszawa,Praga,60.95,3,960549,1967,secondary,2024-02-22
+174,Warszawa,Praga,62.32,1,475239,1996,primary,2023-10-04
+175,Warszawa,Śródmieście,71.59,4,865510,1965,secondary,2023-12-18
+176,Kraków,Krowodrza,72.35,2,1268653,2017,primary,2024-08-08
+177,Warszawa,Śródmieście,75.23,1,731625,2016,secondary,2024-02-05
+178,Gdańsk,Przymorze,41.11,3,702870,2009,secondary,2024-08-13
+179,Gdańsk,Wrzeszcz,85.25,3,658558,1972,secondary,2024-10-08
+180,Wrocław,Fabryczna,89.61,2,955868,1978,secondary,2024-09-11
+181,Poznań,Jeżyce,71.65,1,745546,2008,secondary,2025-03-17
+182,Gdańsk,Wrzeszcz,75.22,4,947273,1962,secondary,2024-09-12
+183,Kraków,Nowa Huta,53.92,4,491322,1977,primary,2025-05-07
+184,Wrocław,Krzyki,65.54,1,935991,1976,secondary,2025-02-18
+185,Kraków,Nowa Huta,88.19,2,1316942,1965,secondary,2024-07-17
+186,Kraków,Krowodrza,72.74,4,696415,1990,secondary,2024-04-01
+187,Kraków,Krowodrza,77.48,4,935840,1996,secondary,2024-02-27
+188,Gdańsk,Oliwa,97.64,2,1544064,1977,secondary,2025-06-02
+189,Poznań,Grunwald,68.82,1,1020284,1975,secondary,2025-05-01
+190,Kraków,Krowodrza,61.45,2,991896,1971,primary,2024-04-20
+191,Wrocław,Krzyki,59.04,4,739303,1990,secondary,2025-05-03
+192,Wrocław,Krzyki,31.97,1,518903,2002,primary,2025-03-07
+193,Warszawa,Praga,94.22,4,1380962,1977,secondary,2024-04-22
+194,Gdańsk,Wrzeszcz,93.41,1,916834,1979,secondary,2025-04-03
+195,Wrocław,Krzyki,51.08,1,491534,2018,primary,2025-04-03
+196,Poznań,Stare Miasto,67.52,2,1006317,1997,secondary,2025-07-24
+197,Gdańsk,Oliwa,46.84,4,424391,1970,secondary,2025-05-17
+198,Gdańsk,Przymorze,65.51,1,739934,2020,primary,2023-10-14
+199,Poznań,Grunwald,47.76,1,521922,1968,secondary,2024-11-21
+200,Warszawa,Śródmieście,81.46,3,689762,2005,secondary,2023-10-06
+201,Kraków,Podgórze,62.52,4,872097,1977,primary,2024-04-13
+202,Warszawa,Praga,44.11,2,738564,2000,secondary,2024-02-14
+203,Poznań,Stare Miasto,63.14,1,965170,1984,secondary,2024-07-25
+204,Warszawa,Śródmieście,53.23,1,840648,2015,secondary,2024-05-01
+205,Poznań,Grunwald,98.16,4,1434387,2007,secondary,2025-05-02
+206,Poznań,Jeżyce,60.14,2,781833,2001,primary,2025-05-05
+207,Wrocław,Fabryczna,50.69,4,690845,2014,primary,2023-08-19
+208,Poznań,Grunwald,61.3,3,843694,2015,secondary,2023-10-10
+209,Warszawa,Mokotów,76.98,4,846504,1980,primary,2025-03-01
+210,Gdańsk,Przymorze,84.69,1,710424,1990,secondary,2024-07-20
+211,Poznań,Stare Miasto,32.27,2,466936,2007,secondary,2024-04-27
+212,Warszawa,Śródmieście,39.64,3,451038,1995,primary,2025-03-31
+213,Warszawa,Śródmieście,43.02,4,733446,1975,secondary,2024-11-01
+214,Poznań,Jeżyce,99.75,3,1459720,2022,primary,2025-03-22
+215,Kraków,Nowa Huta,61.64,4,1107663,2000,secondary,2023-07-30
+216,Warszawa,Śródmieście,67.95,3,1112000,1982,secondary,2024-02-21
+217,Kraków,Nowa Huta,98.96,2,950421,2023,primary,2024-07-21
+218,Gdańsk,Przymorze,55.82,2,766488,1971,primary,2024-09-12
+219,Poznań,Stare Miasto,80.32,4,1241812,1969,primary,2024-09-04
+220,Warszawa,Praga,62.61,3,526655,1983,primary,2024-05-08
+221,Gdańsk,Wrzeszcz,88.2,2,912461,1980,secondary,2023-07-30
+222,Kraków,Krowodrza,96.32,3,1570523,1992,primary,2023-10-14
+223,Gdańsk,Oliwa,38.76,3,533287,1971,primary,2023-11-27
+224,Gdańsk,Wrzeszcz,41.98,3,682923,1965,primary,2025-05-03
+225,Warszawa,Śródmieście,83.97,3,1189219,2013,primary,2024-03-03
+226,Gdańsk,Oliwa,74.93,3,922567,2011,secondary,2024-04-17
+227,Warszawa,Śródmieście,34.19,4,395641,2019,primary,2024-08-11
+228,Gdańsk,Wrzeszcz,51.88,3,782153,2004,secondary,2025-03-14
+229,Wrocław,Fabryczna,69.32,3,669569,1975,secondary,2024-04-21
+230,Kraków,Nowa Huta,36.78,3,639943,2013,primary,2025-02-12
+231,Wrocław,Fabryczna,80.48,2,1238936,2023,secondary,2024-03-02
+232,Wrocław,Śródmieście,31.62,4,397143,1990,primary,2023-12-06
+233,Wrocław,Krzyki,33.54,4,455228,2020,secondary,2024-01-23
+234,Warszawa,Mokotów,60.16,3,902555,2011,secondary,2025-06-09
+235,Poznań,Jeżyce,69.92,2,768264,1996,primary,2024-06-25
+236,Gdańsk,Oliwa,83.51,3,1342709,1975,primary,2025-04-17
+237,Poznań,Grunwald,85.64,3,1124979,2006,primary,2025-01-03
+238,Gdańsk,Przymorze,58.1,1,435653,1977,secondary,2024-03-27
+239,Gdańsk,Oliwa,40.43,2,428866,2000,primary,2024-06-18
+240,Gdańsk,Przymorze,88.98,3,1119409,2022,secondary,2024-03-26
+241,Warszawa,Praga,53.19,1,945658,1999,primary,2023-11-22
+242,Poznań,Grunwald,97.69,2,1459039,2021,primary,2024-02-05
+243,Gdańsk,Oliwa,40.34,2,296389,1974,primary,2025-07-06
+244,Poznań,Grunwald,59.31,4,865659,2012,secondary,2025-05-23
+245,Kraków,Podgórze,44.51,3,800260,2021,secondary,2024-09-07
+246,Kraków,Krowodrza,93.85,3,1220895,1993,secondary,2025-01-10
+247,Kraków,Krowodrza,69.07,2,1198802,1998,secondary,2023-08-04
+248,Kraków,Podgórze,79.35,3,974246,1995,secondary,2025-03-23
+249,Gdańsk,Przymorze,68.02,4,1088466,1978,secondary,2025-06-12
+250,Wrocław,Fabryczna,35.53,4,505083,2021,primary,2024-12-31
+251,Gdańsk,Oliwa,95.31,3,811088,1990,primary,2025-06-04
+252,Gdańsk,Wrzeszcz,74.66,1,604908,2002,secondary,2025-04-14
+253,Kraków,Nowa Huta,97.52,2,1119137,2020,secondary,2023-09-28
+254,Kraków,Krowodrza,52.48,1,891493,1971,primary,2024-01-25
+255,Warszawa,Mokotów,59.25,2,1023434,1964,secondary,2024-03-05
+256,Kraków,Podgórze,97.35,3,1620310,1961,secondary,2023-12-22
+257,Gdańsk,Wrzeszcz,94.99,3,962265,2023,primary,2024-02-25
+258,Poznań,Grunwald,43.5,1,462732,2018,secondary,2025-01-16
+259,Warszawa,Śródmieście,53.6,3,709963,1984,primary,2023-11-08
+260,Poznań,Grunwald,66.07,1,753803,1972,primary,2025-03-04
+261,Poznań,Grunwald,95.51,1,942553,1990,secondary,2024-10-25
+262,Wrocław,Śródmieście,70.77,1,699001,2006,primary,2025-05-23
+263,Warszawa,Praga,51.48,4,748869,1999,primary,2023-10-10
+264,Wrocław,Śródmieście,73.02,2,1280111,2021,primary,2024-04-16
+265,Gdańsk,Oliwa,59.11,4,906206,1987,primary,2023-08-29
+266,Gdańsk,Wrzeszcz,66.79,3,524911,1974,primary,2024-01-12
+267,Gdańsk,Wrzeszcz,70.09,2,617486,2016,primary,2023-08-29
+268,Kraków,Podgórze,70.82,1,1195992,2017,primary,2024-04-17
+269,Kraków,Podgórze,59.08,1,776711,1999,primary,2024-06-15
+270,Wrocław,Krzyki,82.21,1,616426,2004,primary,2024-01-18
+271,Warszawa,Mokotów,99.03,4,727779,2012,primary,2025-03-09
+272,Poznań,Grunwald,99.5,4,1187423,2008,secondary,2025-05-04
+273,Gdańsk,Wrzeszcz,75.75,3,629101,2010,primary,2024-12-09
+274,Warszawa,Mokotów,98.49,4,1419093,2014,secondary,2024-12-02
+275,Kraków,Krowodrza,54.23,3,492044,1974,primary,2023-09-18
+276,Poznań,Stare Miasto,83.62,1,806709,1968,primary,2023-11-25
+277,Warszawa,Praga,71.84,1,696278,1965,secondary,2024-05-02
+278,Kraków,Podgórze,45.21,1,386160,1997,primary,2023-12-14
+279,Wrocław,Fabryczna,71.85,3,690187,1978,primary,2024-05-28
+280,Wrocław,Śródmieście,34.27,2,475870,2014,secondary,2025-06-07
+281,Wrocław,Fabryczna,76.99,3,1128626,2012,primary,2024-09-21
+282,Poznań,Jeżyce,82.81,4,799170,1988,secondary,2023-08-01
+283,Kraków,Krowodrza,94.03,4,1659220,1977,secondary,2024-11-19
+284,Wrocław,Krzyki,53.12,1,910715,2007,primary,2024-01-24
+285,Kraków,Nowa Huta,48.79,1,810393,1984,primary,2024-03-22
+286,Kraków,Krowodrza,51.22,1,477876,1984,primary,2024-03-22
+287,Kraków,Podgórze,72.31,2,821655,1990,secondary,2024-10-09
+288,Poznań,Grunwald,67.36,3,700048,2006,secondary,2024-04-04
+289,Warszawa,Śródmieście,62.86,3,1072242,2007,secondary,2024-05-28
+290,Warszawa,Śródmieście,90.49,2,649575,2013,secondary,2025-02-19
+291,Kraków,Krowodrza,46.1,2,575895,2003,secondary,2024-03-12
+292,Poznań,Grunwald,41.78,3,370251,2022,primary,2024-01-17
+293,Warszawa,Śródmieście,32.37,1,563143,1966,primary,2024-05-29
+294,Kraków,Podgórze,46.2,2,328045,2024,secondary,2024-07-08
+295,Warszawa,Śródmieście,74.64,4,1063778,1962,primary,2024-01-28
+296,Gdańsk,Oliwa,30.83,3,397494,1996,primary,2024-02-27
+297,Poznań,Jeżyce,37.49,1,478681,1990,primary,2023-10-30
+298,Gdańsk,Oliwa,87.07,3,1370856,1970,secondary,2024-06-05
+299,Poznań,Stare Miasto,47.02,2,484292,1970,primary,2025-04-21
+300,Poznań,Grunwald,56.4,4,429613,1961,primary,2025-05-02
